@@ -52,6 +52,24 @@ https://github.com/Roshansullad-lab/cloud-cost-optimizer/blob/main/aws_inventory
 
 https://github.com/Roshansullad-lab/cloud-cost-optimizer/blob/main/azure_inventory.csv
 
+Docker cloud version of Demo can be accessed via below links
+
+Front end webservice URL
+
+https://cloud-cost-optimizer-1-c3my.onrender.com/
+
+
+Backend webservice URL
+https://cloud-cost-optimizer-k8pz.onrender.com/docs
+
+
+Both of these containers are set to autobuild on checkin of the code in the github in the below path
+https://github.com/Roshansullad-lab/cloud-cost-optimizer/tree/main
+
+code can be cloned using below command
+
+git clone https://github.com/Roshansullad-lab/cloud-cost-optimizer.git
+
 
 
 
