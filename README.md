@@ -34,3 +34,26 @@ Test by uploading the desired test .csv files available in the same folder.
 
 you can export any account resources csv files and let them analyze using this tool.
 if you want to cover up more resource criterias then add the relevant fields in the python file.
+
+Cloud docker deployed service can be accessed with below URL and for testing you can upload the .csv files from the 
+below path
+
+server running on render docker containers URL. it might take 5 seconds to startup docker container on fresh request.
+so if link is not working try refreshing after 5 seconds.
+
+https://cloud-cost-optimizer-k8pz.onrender.com/docs
+
+Mock data files for aws and azure resources you can download these and try in the above API testing flow
+use AWS and Azure keywords tags to try out different cloud services
+
+https://github.com/Roshansullad-lab/cloud-cost-optimizer/blob/main/aws_inventory.csv
+
+https://github.com/Roshansullad-lab/cloud-cost-optimizer/blob/main/aws_inventory1.csv
+
+https://github.com/Roshansullad-lab/cloud-cost-optimizer/blob/main/azure_inventory.csv
+
+
+
+
+
+
