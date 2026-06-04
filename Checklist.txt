@@ -1,0 +1,30 @@
+Checklist 
+
+1. tagle ai categorized as navigator
+
+https://tagle.ai/type/navigator
+
+2. GitHub repository link
+
+https://github.com/Roshansullad-lab/cloud-cost-optimizer
+
+git clone https://github.com/Roshansullad-lab/cloud-cost-optimizer.git
+
+3. prompt.md used below prompts to get the working application and to deploy it on render.
+
+Your solution must be Python-based, API-first, and utilize a free-tier database (e.g., SQLite, Postgres, or SQL Server Express). Project 1: Cloud Cost Optimizer & Remediation Engine Focus: FinOps. Build an application that ingests AWS/Azure billing exports (JSON/CSV) to identify "orphaned" resources (e.g., unattached disks, idle VMs). The tool must generate the specific CLI commands or API logic required to decommission the waste. 
+
+provide front end GUI to test all these api's
+
+streamlit not working on vercel what is the alternative on render
+
+4. Presentation deck is generated using gemini only and available in the git repository
+https://github.com/Roshansullad-lab/cloud-cost-optimizer/blob/main/FinOps%20Cloud%20Cost%20Optimizer%20Presentation.pdf
+
+
+
+5. since for this project i started free tier aws account, resources data can be retrieved after 12 hours only.
+since i have created only one ec2 instance to get the csv file to test with current tool, that is available after some time on aws. so right now whatever csv files available those are all mock data files depicting AWS and azure resources. we can get more real data csv files from the customer accounts and test the same with this tool.
+
+
+
