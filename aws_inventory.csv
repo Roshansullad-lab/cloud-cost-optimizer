@@ -1,0 +1,5 @@
+resource_id,resource_type,region,status,monthly_cost
+vol-0abc123456789def0,volume,us-east-1,available,45.00
+vol-09999999999999999,volume,us-east-1,in-use,120.00
+i-0123456789abcdef0,vm,us-west-2,idle,85.50
+i-0987654321fedcba0,vm,us-west-2,running,350.00

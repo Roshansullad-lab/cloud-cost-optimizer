@@ -1,0 +1,6 @@
+resource_id,resource_type,region,status,monthly_cost
+/subscriptions/1234abcd/resourceGroups/rg-prod/providers/Microsoft.Compute/virtualMachines/vm-web-01,Microsoft.Compute/virtualMachines,West US,Running,145.60
+/subscriptions/1234abcd/resourceGroups/rg-prod/providers/Microsoft.Compute/virtualMachines/vm-db-01,Microsoft.Compute/virtualMachines,West US,Running,320.45
+/subscriptions/1234abcd/resourceGroups/rg-dev/providers/Microsoft.Compute/virtualMachines/vm-dev-01,Microsoft.Compute/virtualMachines,East US,Stopped,0.00
+/subscriptions/1234abcd/resourceGroups/rg-prod/providers/Microsoft.Compute/disks/vm-web-01_OsDisk_1_1111,Microsoft.Compute/disks,West US,Attached,12.50
+/subscriptions/1234abcd/resourceGroups/rg-prod/providers/Microsoft.Compute/disks/vm-db-01_DataDisk_1_2222,Microsoft.Compute/disks,West US,Attached,45.00
